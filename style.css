@@ -1,0 +1,25 @@
+body {
+  background-color: #39CCCC;
+}
+.info {
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+
+.location {
+  font-family: 'Julius Sans One', sans-serif;
+  letter-spacing: 3px;
+  font-size: 3.5em;
+}
+
+.temp {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 5px;
+  font-size: 4.5em;
+}
+
+footer {
+  text-align: center;
+}
